@@ -9,5 +9,4 @@ public class G51SpringBootJpaApplication {
     public static void main(String[] args) {
         SpringApplication.run(G51SpringBootJpaApplication.class, args);
     }
-
 }
